@@ -9,7 +9,7 @@ import pandas as pd
 #Change file names as per your years
 
 #surface level
-files = ['air.sig995.2013.nc','pr_wtr.eatm.2013.nc','pres.sfc.2013.nc','rhum.sig995.2013.nc','uwnd.sig995.2013.nc', 'vwnd.sig995.2013.nc']
+files = ['air.sig995.2013.nc', 'omega.sig995.2013.nc', 'pr_wtr.eatm.2013.nc','pres.sfc.2013.nc','rhum.sig995.2013.nc','uwnd.sig995.2013.nc', 'vwnd.sig995.2013.nc']
 #multiple levels
 file_mul = ['air.2013.nc','omega.2013.nc', 'uwnd.2013.nc', 'rhum.2013.nc', 'vwnd.2013.nc']
 
