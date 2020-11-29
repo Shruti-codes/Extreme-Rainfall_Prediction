@@ -9,6 +9,6 @@ Step 2) Get Gridded Rainfall (1.0 x 1.0) NetCDF File (y-value) from : http://imd
 
 #Data Processing
 
-Step 3) Run nc.py for all data files.
+Step 3) Run nc.py for surface-level data files and nc_mul.py for multiple-levels datafiles. (for each year individually)
 
 Step 4) 
