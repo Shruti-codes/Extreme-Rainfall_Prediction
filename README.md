@@ -12,3 +12,5 @@ Step 2) Get Gridded Rainfall (1.0 x 1.0) NetCDF File (y-value) from : http://imd
 Step 3) Run nc.py for all datafiles (change file names as per the years). (for each year individually)
 
 Step 4) Run combine.py on the extracted csv files. (for each year individually)
+
+Step 5) Run data_prep.py on the output files of Step 4 to get gridwise combined file (columns = 22*225*2+3 = 9903)
