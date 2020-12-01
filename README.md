@@ -14,3 +14,5 @@ Step 3) Run nc.py for all datafiles (change file names as per the years). (for e
 Step 4) Run combine.py on the extracted csv files. (for each year individually)
 
 Step 5) Run data_prep.py on the output files of Step 4 to get gridwise combined file (columns = 22\*225\*2\+3 = 9903)
+
+Step 6) Run nc-rainfall.py on files downloaded in Step 2 (change years, latitude/longitude of region and filenames according to the ones you need) to get the amount of rainfall in that particular region across those years.
