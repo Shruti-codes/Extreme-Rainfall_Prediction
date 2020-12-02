@@ -17,7 +17,7 @@ Step 5) Run data_prep.py on the output files of Step 4 to get gridwise combined 
 
 Step 6) Run nc-rainfall.py on files downloaded in Step 2 (change years, latitude/longitude of region and filenames according to the ones you need) to get the amount of rainfall in that particular region across those years. This is used for next 48 hour prediction.
 
-Step 7) Run nc-rainfall_24.py on files downloaded in Step 2 (change years, latitude/longitude of region and filenames according to the ones you need) to get the amount of rainfall in that particular region across those years. This is used for next 24 hour prediction.
+Step 7) Run data_prep_24.py on files downloaded in Step 2 (change years, latitude/longitude of region and filenames according to the ones you need) to get the amount of rainfall in that particular region across those years. This is used for next 24 hour prediction.
 
 
 Website (in progress) : https://shruti-codes.github.io/ExtremeRainfall/landingpage.html
